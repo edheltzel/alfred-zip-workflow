@@ -17,3 +17,7 @@ Double click on the `Archive files and folder.alfredworkflow`
 
 You can use the workflow by setting up your own keyboard trigger or by using the keyword `zip` 
 
+![gif](https://raw.githubusercontent.com/ginfuru/alfred-zip-workflow/master/images/alfred-zip.gif)
+
+**Select your own keyboard trigger**  
+![keyboard](https://raw.githubusercontent.com/ginfuru/alfred-zip-workflow/master/images/set-keyboard-trigger.png)
